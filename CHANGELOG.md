@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-02-04 10:50 - Composer Security Update (Automated)
+
+- Security vulnerabilities opgelost via composer update --with-all-dependencies
+- Run composer show --locked voor volledige package lijst
+- Composer audit: Geen openstaande kwetsbaarheden meer
+
+
 All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
